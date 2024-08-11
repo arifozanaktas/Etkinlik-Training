@@ -1,0 +1,59 @@
+{
+  "activities": [
+    {
+      "id": "fa0d",
+      "name": "Phillip Benjamin",
+      "startDate": "2024-08-11T21:00:00.000Z",
+      "endDate": "2024-08-13T21:00:00.000Z",
+      "location": "Veniam quidem facer"
+    },
+    {
+      "id": "4de2",
+      "name": "Aphrodite Wyatt",
+      "startDate": "2024-08-06T21:00:00.000Z",
+      "endDate": "2024-08-13T21:00:00.000Z",
+      "location": "Dicta error cumque a"
+    },
+    {
+      "id": "3f64",
+      "name": "Barry Snyder",
+      "startDate": "2024-08-03T21:00:00.000Z",
+      "endDate": "2024-08-11T21:00:00.000Z",
+      "location": "Nihil rerum corrupti"
+    },
+    {
+      "id": "5bcd",
+      "name": "Felicia Roy",
+      "startDate": "2024-08-01T21:00:00.000Z",
+      "endDate": "2024-08-12T21:00:00.000Z",
+      "location": "Placeat ab vel nost"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Northwoods1 Cranberry Sauce",
+      "description": "Cranberry Saucee",
+      "id": "b285"
+    },
+    {
+      "name": "Uncle Bob's Dried",
+      "description": "Bob's Driedd",
+      "id": "7ab5"
+    },
+    {
+      "name": "Uncle Bob's Dried Pears",
+      "description": "Bob's Dried Pears",
+      "id": "c382"
+    },
+    {
+      "name": "Northwoods1 Cranberry Sauce",
+      "description": "Cranberry Sauce",
+      "id": "da94"
+    },
+    {
+      "name": "Arif Ozan AKTAŞ",
+      "description": "A.O. AKTAŞ",
+      "id": "9bee"
+    }
+  ]
+}
